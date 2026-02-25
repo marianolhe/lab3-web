@@ -1,8 +1,8 @@
 :root{
---color-primary: #3A405A;
---color-secondary: #7192BE;
---color-text: #FFF7AE;
---color-extra2: #E9AFA3;
---color-extra: #87B37A;
---color-text-secondary: #000000;
+--color-primary: #1B1B2F;
+--color-secondary: #162447;
+--color-accent: #E43F5A;
+--color-gold: #D4AF37;
+--color-text: #F1F1F1;
+--color-text-secondary: #C9C9C9;
 }
