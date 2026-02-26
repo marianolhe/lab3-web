@@ -88,3 +88,15 @@ footer {
   color: var(--color-text-soft);
   font-family: Cinzel, serif;
 }
+
+.theme-good {
+  background: var(--color-ending-good);
+}
+
+.theme-bad {
+  background: var(--color-ending-bad);
+}
+
+.theme-neutral {
+  background: var(--color-ending-neutral);
+}
