@@ -1,0 +1,21 @@
+:root {
+
+  /* Estado inicio */
+  --color-primary: #1B1B2F;
+  --color-text: #F1F1F1;
+
+  /* Estado decisión */
+  --color-decision: #162447;
+
+  /* Final bueno */
+  --color-ending-good: #1f7a1f;
+
+  /* Final malo */
+  --color-ending-bad: #7a1f1f;
+
+  /* Final neutral */
+  --color-ending-neutral: #7a6f1f;
+
+  --color-accent: #E43F5A;
+  --color-gold: #D4AF37;
+}
