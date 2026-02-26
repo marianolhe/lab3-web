@@ -4,9 +4,9 @@
 }
 
 @keyframes glow {
-  0% { text-shadow: 0 0 5px gold; }
-  50% { text-shadow: 0 0 20px gold; }
-  100% { text-shadow: 0 0 5px gold; }
+  0% { text-shadow: 0 0 5px var(--color-gold); }
+  50% { text-shadow: 0 0 20px var(--color-gold); }
+  100% { text-shadow: 0 0 5px var(--color-gold); }
 }
 
 @keyframes float {

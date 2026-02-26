@@ -1,21 +1,29 @@
 :root {
 
-  /* Estado inicio */
-  --color-primary: #1B1B2F;
+  /* Base */
+  --color-primary: #0f0f1a;
+  --color-secondary: #1b1b3a;
+  --color-surface: #1a1a2e;
+
   --color-text: #F1F1F1;
+  --color-text-soft: #C9C9C9;
 
-  /* Estado decisión */
+  /* Estados */
   --color-decision: #162447;
-
-  /* Final bueno */
   --color-ending-good: #1f7a1f;
-
-  /* Final malo */
   --color-ending-bad: #7a1f1f;
-
-  /* Final neutral */
   --color-ending-neutral: #7a6f1f;
 
+  /* Acentos */
   --color-accent: #E43F5A;
   --color-gold: #D4AF37;
+
+  /* Sombras */
+  --shadow-strong: 0 0 50px #000000;
+  --shadow-soft: 0 0 30px #000000;
+  --shadow-accent: 0 0 30px var(--color-accent);
+  --shadow-gold: 0 0 25px var(--color-gold);
+
+  /* Fondo */
+  --background-gradient: radial-gradient(circle at center, #1b1b3a 0%, #0f0f1a 100%);
 }
