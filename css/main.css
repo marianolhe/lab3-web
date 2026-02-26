@@ -1,5 +1,19 @@
 @import url("story-theme.css");
 
+/* Media Query */
+@media (max-width: 768px) {
+  .titulos {
+    font-size: 2.2rem;
+  }
+  .main-content {
+    font-size: 1rem;
+  }
+  .choice-button {
+    width: 100%;
+    text-align: center;
+  }
+}
+
 /* Fuente */
 @font-face {
   font-family: 'fantasy';
